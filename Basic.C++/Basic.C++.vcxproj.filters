@@ -18,5 +18,8 @@
     <ClCompile Include="H.W.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Simple math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
